@@ -1,5 +1,5 @@
 # from https://backdropcms.org/requirements
-FROM php:7.2-apache
+FROM php:7.4.28-apache
 
 RUN a2enmod rewrite
 
